@@ -1,0 +1,7 @@
+{
+  "name": "NurYolu - İslami Yaşam Rehberi",
+  "description": "Namaz vakitleri, Kur'an-ı Kerim, Kıble Pusulası ve Zikirmatik gibi temel İslami araçları içeren kapsamlı bir mobil uyumlu web uygulaması.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
